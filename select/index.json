@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "FAQ",
+  "base_artist": "レトロリロン",
+  "createdAt": "2026-03-24T16:37:14.912038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FAQ",
+      "artist": "Médine",
+      "has_synced": true,
+      "path": "select/01_FAQ_Médine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FAQ",
+      "artist": "Fujiya & Miyagi",
+      "has_synced": true,
+      "path": "select/02_FAQ_Fujiya_&_Miyagi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tuning In To The Frequency Of Your Soul (FAQ Remix)",
+      "artist": "Apoptygma Berzerk",
+      "has_synced": false,
+      "path": "select/03_Tuning_In_To_The_Frequency_Of_Your_Soul_(FAQ_Remix)_Apoptygma_Berzerk.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FAQ",
+      "artist": "Epik High",
+      "has_synced": true,
+      "path": "select/04_FAQ_Epik_High.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Открой глаза (feat. Паштет (FAQ))",
+      "artist": "#####",
+      "has_synced": true,
+      "path": "select/05_Открой_глаза_(feat._Паштет_(FAQ))_unknown.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Zawjet Al Faq",
+      "artist": "Melhem Zein",
+      "has_synced": true,
+      "path": "select/06_Zawjet_Al_Faq_Melhem_Zein.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FAQ",
+      "artist": "Berri Txarrak",
+      "has_synced": false,
+      "path": "select/07_FAQ_Berri_Txarrak.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dear Slim (FAQ)",
+      "artist": "KJ-52",
+      "has_synced": true,
+      "path": "select/08_Dear_Slim_(FAQ)_KJ-52.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "09 FAQ",
+      "artist": "Epik High (¿¡ÇÈÇÏÀÌ)",
+      "has_synced": true,
+      "path": "select/09_09_FAQ_Epik_High_(¿¡ÇÈÇÏÀÌ).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FAQ",
+      "artist": "Epik High (에픽하이)",
+      "has_synced": true,
+      "path": "select/10_FAQ_Epik_High_(에픽하이).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "FAQ",
+      "artist": "Тол",
+      "has_synced": true,
+      "path": "select/11_FAQ_Тол.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What Da Faq (Style Wars Remix)",
+      "artist": "Ballin",
+      "has_synced": false,
+      "path": "select/12_What_Da_Faq_(Style_Wars_Remix)_Ballin.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "FAQ",
+      "artist": "Anden",
+      "has_synced": true,
+      "path": "select/13_FAQ_Anden.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "FAQ",
+      "artist": "Médine - Www.Time2Rap.io",
+      "has_synced": true,
+      "path": "select/14_FAQ_Médine_-_Www.Time2Rap.io.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tuning into the Frequency of your Soul (FAQ Remix)",
+      "artist": "Apoptygma Berzerk",
+      "has_synced": false,
+      "path": "select/15_Tuning_into_the_Frequency_of_your_Soul_(FAQ_Remix)_Apoptygma_Berzerk.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "FAQ",
+      "artist": "Epik High",
+      "has_synced": true,
+      "path": "select/16_FAQ_Epik_High.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "FAQ",
+      "artist": "Epik High (에픽하이)",
+      "has_synced": true,
+      "path": "select/17_FAQ_Epik_High_(에픽하이).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FAQ",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_FAQ_レトロリロン.txt"
+    }
+  ]
+}
